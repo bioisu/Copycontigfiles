@@ -4,7 +4,7 @@
 ##############################
 # This script is used after SPAdes de novo assembly of bacterial genomes. 
 # It copies the contigs.fasta file in each sample folder into a fasta file named after the sample folder name. 
-# It then moves the new fasta files from each folder into a new folder name "contigfiles". 
+# It then moves the new fasta files from each folder into a new folder named "contigfiles". 
 
 mkdir contigfiles
 
